@@ -23,3 +23,14 @@ Mejoras
 
 Usar un framework CSS (Bootstrap, Foundation, etc)
 Mostrar la ubicación del empleado registrado en Google Maps al seleccionarlo de la tabla para visualización de la información.
+
+Recursos:
+Laravel:5.8.16
+Php: 7.4.3
+PakPWA: laravelpwa
+
+Notas:
+Tiene el modulo de auth por defecto, las credenciales estan fijas (lbatres@fd.com / 12121212Qw.)
+
+DEMO:
+https://freelancerdevelopers.com/nulldata/
